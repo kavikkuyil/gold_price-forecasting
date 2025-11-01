@@ -30,7 +30,7 @@ Pandas / NumPy – data processing
 
 ⚙️ Installation
 # Clone the repository
-git clone https://github.com/<your-username>/gold-price-forecasting.git
+git clone (https://github.com/kavikkuyil/gold_price-forecasting.git)
 cd gold-price-forecasting
 
 # Create a virtual environment
